@@ -1,23 +1,9 @@
-# TryHackMe Writeups — Nirali Patel
+# TryHackMe notes
 
-> Aspiring SOC Analyst | CQUniversity Melbourne
+Notes I take while working through rooms, mostly the SOC Level 1 path.
 
-This repository contains my documented writeups from 
-TryHackMe rooms — focusing on SOC Level 1, 
-threat detection and incident response.
+These are written for me in six months, when I have forgotten how something
+worked. They are not walkthroughs and there are no answers in them.
 
-## 🛡️ SOC Level 1 Path
-| Room | Status | Writeup |
-|---|---|---|
-| Pyramid of Pain | 🔄 In Progress | Coming soon |
-| Cyber Kill Chain | ⏳ Upcoming | - |
-| Unified Kill Chain | ⏳ Upcoming | - |
-| Wireshark Basics | ⏳ Upcoming | - |
-| Splunk Basics | ⏳ Upcoming | - |
-
-## 🔧 Tools Practised
-- Wireshark · Splunk · Nmap · Kali Linux
-
-## 👩‍💻 About
-🔗 [LinkedIn](https://www.linkedin.com/in/nirali-patel-soc/)
-🌐 [Portfolio](https://nilupatel-soc.github.io/Nirali-Patel-SOC/)
+Same format every time: what the room covers, the commands or searches that
+actually mattered, and what I did not understand the first time.
